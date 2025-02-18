@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "region_miner",
+	"version": "${version}",
+	"name": "Region Miner",
+	"description": "This is a mod that allows you to select a region and then the mod will take control of your client and mine out that region.\nYou can use this to afk and get some resources\nOr you can use this to mine out a region whilst doing something else in real life.\nEnjoy.",
+	"authors": [
+		"SCRIPTERBLOX"
+	],
+	"contact": {
+		"homepage": "https://scripterblox.github.io",
+		"sources": "https://github.com/SCRIPTERBLOX/RegionMiner"
+	},
+	"license": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)",
+	"icon": "assets/region_miner/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.scripterblox.region_miner.RegionMiner"
+		],
+		"fabric-datagen": [
+			"com.scripterblox.region_miner.RegionMinerDataGenerator"
+		],
+		"client": [
+			"com.scripterblox.region_miner.RegionMinerClient"
+		]
+	},
+	"mixins": [
+		"region_miner.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.10",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
