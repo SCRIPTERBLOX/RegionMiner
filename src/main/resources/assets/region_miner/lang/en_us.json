@@ -1,0 +1,46 @@
+{
+  "category.region_miner.region_miner": "Region Miner",
+
+
+  "key.region_miner.open_menu": "Open The Region Miner Menu",
+  "key.region_miner.set_pos_1": "Set Position 1 of the Region",
+  "key.region_miner.set_pos_2": "Set Position 2 of the Region",
+  "key.region_miner.start_mining": "Start automated Mining",
+  "key.region_miner.stop_mining": "Stop automated Mining",
+  "key.region_miner.clear_region": "Clear the Mining Region",
+
+
+
+
+  "key.region_miner.menu.button_label.set_pos_1": "Set Position 1",
+  "key.region_miner.menu.button_label.set_pos_2": "Set Position 2",
+  "key.region_miner.menu.button_label.start_mining": "Start Mining",
+  "key.region_miner.menu.button_label.stop_mining": "Stop Mining",
+
+  "key.region_miner.menu.button_label.my_site": "My Website",
+  "key.region_miner.menu.button_label.my_channel": "Youtube",
+  "key.region_miner.menu.button_label.source_code": "Source Code",
+  "key.region_miner.menu.button_label.donate": "Donate",
+
+
+  "key.region_miner.menu.tool_tip.set_pos_1": "Sets the Region Corner 1",
+  "key.region_miner.menu.tool_tip.set_pos_2": "Sets the Region Corner 2",
+  "key.region_miner.menu.tool_tip.start_mining": "Starts Mining",
+  "key.region_miner.menu.tool_tip.stop_mining": "Stops Mining",
+
+  "key.region_miner.menu.tool_tip.my_site": "Brings you to my site",
+  "key.region_miner.menu.tool_tip.my_channel": "Hello everyone, whats up welcome to my youtube channel.",
+  "key.region_miner.menu.tool_tip.source_code": "Look at what makes this mod work",
+  "key.region_miner.menu.tool_tip.donate": "Currently not implemented",
+
+
+
+  "key.region_miner.menu.text.title": "Region Miner Menu",
+  "key.region_miner.menu.text.options": "Options",
+  "key.region_miner.menu.text.keybinds": "Keybindings",
+  "key.region_miner.menu.text.desc": "Features:",
+  "key.region_miner.menu.text.about": "About",
+
+
+  "key.region_miner.menu.text_blocks.description": "Once you’ve set two corners (either by clicking the \"Set Position\" button or using the keybind), the region will be displayed. To start automated mining, you can:\n - Press the keybind or\n - Click the \"Start Mining\" button here.\n To stop the mining process you can:\n - Press the keybind or\n - Click the Stop Mining button."
+}
